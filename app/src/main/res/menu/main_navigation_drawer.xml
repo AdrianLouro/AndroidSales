@@ -1,0 +1,17 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="es.ulpgc.eii.pea.practica3.MainActivity">
+    <item
+        android:id="@+id/customers_tab"
+        android:title="@string/tab_customers"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/products_tab"
+        android:title="@string/tab_products"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/orders_tab"
+        android:title="@string/tab_orders"
+        app:showAsAction="never" />
+</menu>

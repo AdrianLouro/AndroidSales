@@ -1,0 +1,34 @@
+<resources>
+    <string name="title_activity_customer">Customer</string>
+    <string name="title_activity_product">Product</string>
+    <string name="title_activity_order">Order</string>
+
+    <string name="navigation_drawer_open">Open menu</string>
+    <string name="navigation_drawer_close">Close menu</string>
+
+    <string name="tab_customers">Customers</string>
+    <string name="tab_products">Products</string>
+    <string name="tab_orders">Orders</string>
+    <string name="name">Name</string>
+    <string name="address">Address</string>
+    <string name="description">Description</string>
+    <string name="code">Code</string>
+    <string name="quantity">Quantity</string>
+    <string name="price">Price</string>
+    <string name="save">Save</string>
+    <string name="delete">Delete</string>
+    <string name="entityCreated">Successful creation!</string>
+    <string name="entityEdited">Successful edition!</string>
+    <string name="entityDeleted">Successful deletion!</string>
+    <string name="undo">Undo</string>
+    <string name="undone">Undone successfully!</string>
+    <string name="noChanges">Nothing to change</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="confirmDeletionTitle">Are you sure you want to delete it?</string>
+    <string name="confirmDeletionMessage">You will not be able to revert this action!</string>
+    <string name="fillEveryField">Fill every field!</string>
+    <string name="ok">OK</string>
+    <string name="couldNotDelete">It could not be deleted because it has associated orders!</string>
+    <string name="error">An error occurred!</string>
+</resources>
